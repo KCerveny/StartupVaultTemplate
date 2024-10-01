@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"bc8be298bc22977e","type":"group","x":-1320,"y":-120,"width":2400,"height":1520,"label":"Business Model Canvas"},
+		{"id":"d375891453629711","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Key Value Proposition.md","subpath":"#Overview","x":-320,"y":-60,"width":420,"height":900,"color":"3"},
+		{"id":"3b7debfe61399b17","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Market Size.md","subpath":"#Overview","x":-1240,"y":-960,"width":760,"height":560,"color":"3"},
+		{"id":"7519343182de8147","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Market Type and Competitive Hypothesis.md","subpath":"#Market Type and Competitive Hypothesis Overview","x":-80,"y":-960,"width":760,"height":560,"color":"1"},
+		{"id":"3491bb4301732b2a","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Key Activities.md","subpath":"#Key Activities Overview","x":-790,"y":-60,"width":430,"height":420,"color":"5"},
+		{"id":"467103ae9faa2324","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Customer Segments.md","subpath":"#Customer Segments Overview","x":590,"y":-60,"width":420,"height":900,"color":"4"},
+		{"id":"ab145dd89f15f6c2","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Customer Relationships.md","subpath":"#Customer Relationships Overview","x":140,"y":-60,"width":420,"height":420,"color":"1"},
+		{"id":"8a66716731813cf3","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Key Resources.md","subpath":"#Key Resources Overview","x":-790,"y":390,"width":430,"height":450,"color":"4"},
+		{"id":"90b65eb76cf6e0e5","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Channels.md","subpath":"#Channels Overview","x":140,"y":390,"width":420,"height":450,"color":"6"},
+		{"id":"8e9171f5d806326e","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Key Partnerships.md","subpath":"#Key Partnerships Overview","x":-1240,"y":-60,"width":420,"height":900,"color":"1"},
+		{"id":"ccfe5fee59841244","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Cost Structure.md","subpath":"#Cost Structure Overview","x":-1240,"y":880,"width":1100,"height":450,"color":"2"},
+		{"id":"023c40be6bb411a4","type":"file","file":"Atlas/Notes/Customer Development Process/1. Customer Discovery/Phase 1 - Hypothesis/Business Model Canvas/Revenue Streams.md","subpath":"#Revenue Streams Overview","x":-80,"y":880,"width":1090,"height":450,"color":"5"}
+	],
+	"edges":[]
+}

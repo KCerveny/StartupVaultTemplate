@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "nick-milo-callouts"
+  ],
+  "baseFontSizeAction": true
+}

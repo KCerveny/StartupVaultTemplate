@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Atlas/Utilities/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+",
+  "showInlineTitle": false,
+  "promptDelete": false
+}
